@@ -1,0 +1,12 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+.env
+.vscode/launch.json
+.vs/
+coverage/
+report.html
+.cache/
+.eslintcache
+dist/
