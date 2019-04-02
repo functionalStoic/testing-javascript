@@ -10,9 +10,8 @@
     "prettier": "^1.15.3"
   },
   "scripts": {
-    "test": "npm run lint",
-    "lint": "eslint .",
-    "lint:fix": "npm run lint -- --fix"
+    "test": "jest && npm run lint",
+    "lint": "eslint . --cache"
   },
   "dependencies": {
     "bunyan": "^1.8.12"
