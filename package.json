@@ -2,7 +2,7 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "babel-eslint": "10.0.3",
-    "eslint": "6.2.2",
+    "eslint": "6.3.0",
     "eslint-config-algolia": "13.4.0",
     "eslint-config-prettier": "6.2.0",
     "eslint-plugin-import": "2.18.2",
