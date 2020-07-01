@@ -15,6 +15,6 @@
     "lint": "eslint . --cache"
   },
   "dependencies": {
-    "bunyan": "1.8.12"
+    "bunyan": "1.8.14"
   }
 }
